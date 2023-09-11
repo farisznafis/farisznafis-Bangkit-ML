@@ -1,3 +1,4 @@
+# Visualizing data
 Data visualization is the graphical representation of data. In this part of the course, you’ll be introduced to key concepts, including accessibility, design thinking, and other factors that play a role in visualizing the data in your analysis.
 
 ## Learning Objectives
