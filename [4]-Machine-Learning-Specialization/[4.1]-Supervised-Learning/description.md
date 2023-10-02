@@ -1,7 +1,12 @@
-# Supervised Machine Learning: Regression and Classification
-This week, you'll extend linear regression to handle multiple input features. You'll also learn some methods for improving your model's training and performance, such as vectorization, feature scaling, feature engineering and polynomial regression. At the end of the week, you'll get to practice implementing linear regression in code.
+# Introduction to Machine Learning
+Welcome to the Machine Learning Specialization! You're joining millions of others who have taken either this or the original course, which led to the founding of Coursera, and has helped millions of other learners, like you, take a look at the exciting world of machine learning!
 
 ## Learning Objectives
-- Use vectorization to implement multiple linear regression
-- Use feature scaling, feature engineering, and polynomial regression to improve model training
-- Implement linear regression in code
+- Define machine learning
+- Define supervised learning
+- Define unsupervised learning
+- Write and run Python code in Jupyter Notebooks
+- Define a regression model
+- Implement and visualize a cost function
+- Implement gradient descent
+- Optimize a regression model using gradient descent
