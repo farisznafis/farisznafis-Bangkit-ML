@@ -1,0 +1,2 @@
+# Introduction to Probability and Probability Distributions
+In this week, you will learn about probability of events and various rules of probability to correctly do arithmetic with probabilities. You will learn the concept of conditional probability and the key idea behind Bayes theorem. In lesson 2, we generalize the concept of probability of events to probability distribution over random variables. You will learn about some common probability distributions like the Binomial distribution and the Normal distribution.
