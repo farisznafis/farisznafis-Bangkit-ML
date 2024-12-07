@@ -1,4 +1,0 @@
-# Confidence Intervals and Hypothesis Testing
-This week you will learn another estimation method called interval estimation. The most common interval estimates are confidence intervals and you will see how they are calculated and how to correctly interpret them. In lesson 2, we cover the third estimation method called hypothesis testing where estimates are formulated as hypothesis and then tested in the presence of available evidence or sample of data. You will learn the concept of p-value that helps in making a decision for a hypothesis test and also learn some common tests like the t-test, two-sample t-test, and the paired t-test. We end the week with an interesting application of hypothesis testing in data science: A/B testing.
-
-$$\text{Degrees of freedom } = \frac{\left[\frac{s_{1}^2}{n_1} + \frac{s_{2}^2}{n_2} \right]^2}{\frac{(s_{1}^2/n_1)^2}{n_1-1} + \frac{(s_{2}^2/n_2)^2}{n_2-1}}$$

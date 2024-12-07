@@ -1,2 +1,0 @@
-# farisznafis-Bangkit-ML
- 
